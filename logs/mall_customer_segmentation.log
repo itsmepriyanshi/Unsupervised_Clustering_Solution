@@ -1,0 +1,6 @@
+ERROR:root:Error loading data: [Errno 2] No such file or directory: 'data/MallCustomers.csv'
+ERROR:root:An error occurred: [Errno 2] No such file or directory: 'data/MallCustomers.csv'
+ERROR:root:Error loading data: [Errno 2] No such file or directory: 'data/mall_customer_segmentation.csv'
+ERROR:root:An error occurred: [Errno 2] No such file or directory: 'data/mall_customer_segmentation.csv'
+INFO:root:Data loaded successfully.
+INFO:root:Clustering performed successfully.
